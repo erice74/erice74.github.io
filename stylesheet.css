@@ -1,0 +1,88 @@
+﻿html {
+  background-color: #ffffcc;
+}
+
+
+body {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: solid #990033 25px;
+}
+
+
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 100px;
+  text-align: left;
+  margin: 2px 5px -50px 8px;
+}
+
+
+h2 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 39.5px;
+  color: #990033;
+  text-align: left;
+  margin: 25px 5px 14px 13px
+}
+
+
+h3 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 30px;
+  margin: 35px auto -20px 3px;
+}
+
+
+h4 {
+  font-family: Impact, Charcoal, sans-serif;
+  color: #990033;
+  margin-bottom: -16px;
+}
+
+
+p {
+  margin-bottom: -10px;
+}
+
+
+.banner {
+  margin: 10px;
+  width: 95%;
+  border: solid #990033 10px;
+  
+}
+
+
+.about {
+  padding: 10px;
+  margin-top: -50px;
+}
+
+
+.contact {
+  text-align: center;
+}
+
+
+.copyright {
+  margin-bottom: 10px;
+  margin-left: 2px;
+}
+
+
+#buttons {
+  border: solid #990033 10px;
+  float: right;
+  margin-top: -170px;
+  margin-right: -10px;
+}
+
+
+#selfie {
+  float: left;
+  padding-top: 18px;
+  padding-right: 10px;
+}
